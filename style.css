@@ -122,6 +122,12 @@ h1{
    letter-spacing: 8px;
 }
 
+.title-contatos {
+   justify-content: space-around;
+   display: flex;
+   color: red;
+}
+
 strong{
    color: var(--White);
 }
